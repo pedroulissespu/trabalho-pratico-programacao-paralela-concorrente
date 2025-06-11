@@ -18,4 +18,4 @@ Obrigado por querer contribuir com este trabalho/projeto! Siga as orientações 
 
 ## Dúvidas
 
-Se tiver dúvidas, abra uma issue ou entre em contato com o mantenedor do projeto: *`pedro.ulisses2011@gmail.com`*.
+Se tiver dúvidas, abra uma issue ou entre em contato com o mantenedor do projeto: `pedro.ulisses2011@gmail.com`.
