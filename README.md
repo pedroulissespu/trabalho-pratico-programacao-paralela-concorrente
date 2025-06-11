@@ -13,6 +13,8 @@ Repositório para guardar o código e arquivos importantes utilizados na discipl
 
 ## [`Logs de Execução`](./logs/README.md)
 
+## [`Vídeo Demonstrativo Executando a Solução`](https://www.youtube.com/watch?v=ln25z0VA7m8)
+
 ## Como Contribuir
 
 Contribuições são bem-vindas! Para saber como colaborar com este projeto, leia o arquivo [`CONTRIBUTING.md`](./CONTRIBUTING.md).
