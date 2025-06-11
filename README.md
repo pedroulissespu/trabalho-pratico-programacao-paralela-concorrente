@@ -12,3 +12,7 @@ Repositório para guardar o código e arquivos importantes utilizados na discipl
 ## [`Relatório Técnico`](./docs/Relatorio_Tecnico.pdf)
 
 ## [`Logs de Execução`](./logs/README.md)
+
+## Como Contribuir
+
+Contribuições são bem-vindas! Para saber como colaborar com este projeto, leia o arquivo [`CONTRIBUTING.md`](./CONTRIBUTING.md).
