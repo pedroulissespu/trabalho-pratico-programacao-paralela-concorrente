@@ -1,0 +1,1175 @@
+Iniciando simulação do elevador...
+[ESQUIADOR 0] chegou.
+[ESQUIADOR 0] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [0]:
+LT [1]: 0
+RT [0]:
+RS [0]:
+-------------------------
+[ESQUIADOR 1] chegou.
+[ESQUIADOR 1] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [0]:
+LT [1]: 0
+RT [1]: 1
+RS [0]:
+-------------------------
+[ESQUIADOR 2] chegou.
+[ESQUIADOR 2] entrou na fila 3.
+--- ESTADO DAS FILAS ---
+LS [0]:
+LT [1]: 0
+RT [1]: 1
+RS [1]: 2
+-------------------------
+[ESQUIADOR 3] chegou.
+[ESQUIADOR 3] entrou na fila 0.
+--- ESTADO DAS FILAS ---
+LS [1]: 3
+LT [1]: 0
+RT [1]: 1
+RS [1]: 2
+-------------------------
+[ESQUIADOR 4] chegou.
+[ESQUIADOR 4] entrou na fila 3.
+--- ESTADO DAS FILAS ---
+LS [1]: 3
+LT [1]: 0
+RT [1]: 1
+RS [2]: 2 4
+-------------------------
+[ELEVADOR] Não há pessoas suficientes para preencher o elevador neste ciclo. Aguardando próximo ciclo.
+[ESQUIADOR 5] chegou.
+[ESQUIADOR 5] entrou na fila 0.
+--- ESTADO DAS FILAS ---
+LS [2]: 3 5
+LT [1]: 0
+RT [1]: 1
+RS [2]: 2 4
+-------------------------
+[ESQUIADOR 6] chegou.
+[ESQUIADOR 6] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [2]: 3 5
+LT [2]: 0 6
+RT [1]: 1
+RS [2]: 2 4
+-------------------------
+[ESQUIADOR 7] chegou.
+[ESQUIADOR 7] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [2]: 3 5
+LT [2]: 0 6
+RT [2]: 1 7
+RS [2]: 2 4
+-------------------------
+[ESQUIADOR 8] chegou.
+[ESQUIADOR 8] entrou na fila 3.
+--- ESTADO DAS FILAS ---
+LS [2]: 3 5
+LT [2]: 0 6
+RT [2]: 1 7
+RS [3]: 2 4 8
+-------------------------
+[ESQUIADOR 9] chegou.
+[ESQUIADOR 9] entrou na fila 0.
+--- ESTADO DAS FILAS ---
+LS [3]: 3 5 9
+LT [2]: 0 6
+RT [2]: 1 7
+RS [3]: 2 4 8
+-------------------------
+[ELEVADOR] Partiu com: 2 3 4 5
+--- ESTADO DAS FILAS ---
+LS [1]: 9
+LT [2]: 0 6
+RT [2]: 1 7
+RS [1]: 8
+-------------------------
+[ESQUIADOR 10] chegou.
+[ESQUIADOR 10] entrou na fila 3.
+--- ESTADO DAS FILAS ---
+LS [1]: 9
+LT [2]: 0 6
+RT [2]: 1 7
+RS [2]: 8 10
+-------------------------
+[ESQUIADOR 11] chegou.
+[ESQUIADOR 11] entrou na fila 0.
+--- ESTADO DAS FILAS ---
+LS [2]: 9 11
+LT [2]: 0 6
+RT [2]: 1 7
+RS [2]: 8 10
+-------------------------
+[ESQUIADOR 12] chegou.
+[ESQUIADOR 12] entrou na fila 3.
+--- ESTADO DAS FILAS ---
+LS [2]: 9 11
+LT [2]: 0 6
+RT [2]: 1 7
+RS [3]: 8 10 12
+-------------------------
+[ESQUIADOR 13] chegou.
+[ESQUIADOR 13] entrou na fila 0.
+--- ESTADO DAS FILAS ---
+LS [3]: 9 11 13
+LT [2]: 0 6
+RT [2]: 1 7
+RS [3]: 8 10 12
+-------------------------
+[ESQUIADOR 14] chegou.
+[ESQUIADOR 14] entrou na fila 3.
+--- ESTADO DAS FILAS ---
+LS [3]: 9 11 13
+LT [2]: 0 6
+RT [2]: 1 7
+RS [4]: 8 10 12 14
+-------------------------
+[ELEVADOR] Partiu com: 8 9 10 11
+--- ESTADO DAS FILAS ---
+LS [1]: 13
+LT [2]: 0 6
+RT [2]: 1 7
+RS [2]: 12 14
+-------------------------
+[ESQUIADOR 15] chegou.
+[ESQUIADOR 15] entrou na fila 0.
+--- ESTADO DAS FILAS ---
+LS [2]: 13 15
+LT [2]: 0 6
+RT [2]: 1 7
+RS [2]: 12 14
+-------------------------
+[ESQUIADOR 16] chegou.
+[ESQUIADOR 16] entrou na fila 3.
+--- ESTADO DAS FILAS ---
+LS [2]: 13 15
+LT [2]: 0 6
+RT [2]: 1 7
+RS [3]: 12 14 16
+-------------------------
+[ESQUIADOR 17] chegou.
+[ESQUIADOR 17] entrou na fila 0.
+--- ESTADO DAS FILAS ---
+LS [3]: 13 15 17
+LT [2]: 0 6
+RT [2]: 1 7
+RS [3]: 12 14 16
+-------------------------
+[ESQUIADOR 18] chegou.
+[ESQUIADOR 18] entrou na fila 3.
+--- ESTADO DAS FILAS ---
+LS [3]: 13 15 17
+LT [2]: 0 6
+RT [2]: 1 7
+RS [4]: 12 14 16 18
+-------------------------
+[ESQUIADOR 19] chegou.
+[ESQUIADOR 19] entrou na fila 0.
+--- ESTADO DAS FILAS ---
+LS [4]: 13 15 17 19
+LT [2]: 0 6
+RT [2]: 1 7
+RS [4]: 12 14 16 18
+-------------------------
+[ELEVADOR] Partiu com: 12 13 14 15
+--- ESTADO DAS FILAS ---
+LS [2]: 17 19
+LT [2]: 0 6
+RT [2]: 1 7
+RS [2]: 16 18
+-------------------------
+[ESQUIADOR 20] chegou.
+[ESQUIADOR 20] entrou na fila 3.
+--- ESTADO DAS FILAS ---
+LS [2]: 17 19
+LT [2]: 0 6
+RT [2]: 1 7
+RS [3]: 16 18 20
+-------------------------
+[ESQUIADOR 21] chegou.
+[ESQUIADOR 21] entrou na fila 0.
+--- ESTADO DAS FILAS ---
+LS [3]: 17 19 21
+LT [2]: 0 6
+RT [2]: 1 7
+RS [3]: 16 18 20
+-------------------------
+[ESQUIADOR 22] chegou.
+[ESQUIADOR 22] entrou na fila 3.
+--- ESTADO DAS FILAS ---
+LS [3]: 17 19 21
+LT [2]: 0 6
+RT [2]: 1 7
+RS [4]: 16 18 20 22
+-------------------------
+[ESQUIADOR 23] chegou.
+[ESQUIADOR 23] entrou na fila 0.
+--- ESTADO DAS FILAS ---
+LS [4]: 17 19 21 23
+LT [2]: 0 6
+RT [2]: 1 7
+RS [4]: 16 18 20 22
+-------------------------
+[ESQUIADOR 24] chegou.
+[ESQUIADOR 24] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [4]: 17 19 21 23
+LT [3]: 0 6 24
+RT [2]: 1 7
+RS [4]: 16 18 20 22
+-------------------------
+[ELEVADOR] Partiu com: 0 6 24 16
+--- ESTADO DAS FILAS ---
+LS [4]: 17 19 21 23
+LT [0]:
+RT [2]: 1 7
+RS [3]: 18 20 22
+-------------------------
+[ESQUIADOR 25] chegou.
+[ESQUIADOR 25] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [4]: 17 19 21 23
+LT [1]: 25
+RT [2]: 1 7
+RS [3]: 18 20 22
+-------------------------
+[ESQUIADOR 26] chegou.
+[ESQUIADOR 26] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [4]: 17 19 21 23
+LT [2]: 25 26
+RT [2]: 1 7
+RS [3]: 18 20 22
+-------------------------
+[ESQUIADOR 27] chegou.
+[ESQUIADOR 27] entrou na fila 3.
+--- ESTADO DAS FILAS ---
+LS [4]: 17 19 21 23
+LT [2]: 25 26
+RT [2]: 1 7
+RS [4]: 18 20 22 27
+-------------------------
+[ESQUIADOR 28] chegou.
+[ESQUIADOR 28] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [4]: 17 19 21 23
+LT [3]: 25 26 28
+RT [2]: 1 7
+RS [4]: 18 20 22 27
+-------------------------
+[ESQUIADOR 29] chegou.
+[ESQUIADOR 29] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [4]: 17 19 21 23
+LT [3]: 25 26 28
+RT [3]: 1 7 29
+RS [4]: 18 20 22 27
+-------------------------
+[ELEVADOR] Partiu com: 1 7 29 17
+--- ESTADO DAS FILAS ---
+LS [3]: 19 21 23
+LT [3]: 25 26 28
+RT [0]:
+RS [4]: 18 20 22 27
+-------------------------
+[ESQUIADOR 30] chegou.
+[ESQUIADOR 30] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [3]: 19 21 23
+LT [3]: 25 26 28
+RT [1]: 30
+RS [4]: 18 20 22 27
+-------------------------
+[ESQUIADOR 31] chegou.
+[ESQUIADOR 31] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [3]: 19 21 23
+LT [3]: 25 26 28
+RT [2]: 30 31
+RS [4]: 18 20 22 27
+-------------------------
+[ESQUIADOR 32] chegou.
+[ESQUIADOR 32] entrou na fila 0.
+--- ESTADO DAS FILAS ---
+LS [4]: 19 21 23 32
+LT [3]: 25 26 28
+RT [2]: 30 31
+RS [4]: 18 20 22 27
+-------------------------
+[ESQUIADOR 33] chegou.
+[ESQUIADOR 33] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [4]: 19 21 23 32
+LT [3]: 25 26 28
+RT [3]: 30 31 33
+RS [4]: 18 20 22 27
+-------------------------
+[ESQUIADOR 34] chegou.
+[ESQUIADOR 34] entrou na fila 3.
+--- ESTADO DAS FILAS ---
+LS [4]: 19 21 23 32
+LT [3]: 25 26 28
+RT [3]: 30 31 33
+RS [5]: 18 20 22 27 34
+-------------------------
+[ELEVADOR] Partiu com: 25 26 28 18
+--- ESTADO DAS FILAS ---
+LS [4]: 19 21 23 32
+LT [0]:
+RT [3]: 30 31 33
+RS [4]: 20 22 27 34
+-------------------------
+[ESQUIADOR 35] chegou.
+[ESQUIADOR 35] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [4]: 19 21 23 32
+LT [1]: 35
+RT [3]: 30 31 33
+RS [4]: 20 22 27 34
+-------------------------
+[ESQUIADOR 36] chegou.
+[ESQUIADOR 36] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [4]: 19 21 23 32
+LT [2]: 35 36
+RT [3]: 30 31 33
+RS [4]: 20 22 27 34
+-------------------------
+[ESQUIADOR 37] chegou.
+[ESQUIADOR 37] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [4]: 19 21 23 32
+LT [3]: 35 36 37
+RT [3]: 30 31 33
+RS [4]: 20 22 27 34
+-------------------------
+[ESQUIADOR 38] chegou.
+[ESQUIADOR 38] entrou na fila 3.
+--- ESTADO DAS FILAS ---
+LS [4]: 19 21 23 32
+LT [3]: 35 36 37
+RT [3]: 30 31 33
+RS [5]: 20 22 27 34 38
+-------------------------
+[ESQUIADOR 39] chegou.
+[ESQUIADOR 39] entrou na fila 0.
+--- ESTADO DAS FILAS ---
+LS [5]: 19 21 23 32 39
+LT [3]: 35 36 37
+RT [3]: 30 31 33
+RS [5]: 20 22 27 34 38
+-------------------------
+[ELEVADOR] Partiu com: 30 31 33 19
+--- ESTADO DAS FILAS ---
+LS [4]: 21 23 32 39
+LT [3]: 35 36 37
+RT [0]:
+RS [5]: 20 22 27 34 38
+-------------------------
+[ESQUIADOR 40] chegou.
+[ESQUIADOR 40] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [4]: 21 23 32 39
+LT [3]: 35 36 37
+RT [1]: 40
+RS [5]: 20 22 27 34 38
+-------------------------
+[ESQUIADOR 41] chegou.
+[ESQUIADOR 41] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [4]: 21 23 32 39
+LT [3]: 35 36 37
+RT [2]: 40 41
+RS [5]: 20 22 27 34 38
+-------------------------
+[ESQUIADOR 42] chegou.
+[ESQUIADOR 42] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [4]: 21 23 32 39
+LT [3]: 35 36 37
+RT [3]: 40 41 42
+RS [5]: 20 22 27 34 38
+-------------------------
+[ESQUIADOR 43] chegou.
+[ESQUIADOR 43] entrou na fila 0.
+--- ESTADO DAS FILAS ---
+LS [5]: 21 23 32 39 43
+LT [3]: 35 36 37
+RT [3]: 40 41 42
+RS [5]: 20 22 27 34 38
+-------------------------
+[ESQUIADOR 44] chegou.
+[ESQUIADOR 44] entrou na fila 3.
+--- ESTADO DAS FILAS ---
+LS [5]: 21 23 32 39 43
+LT [3]: 35 36 37
+RT [3]: 40 41 42
+RS [6]: 20 22 27 34 38 44
+-------------------------
+[ELEVADOR] Partiu com: 35 36 37 20
+--- ESTADO DAS FILAS ---
+LS [5]: 21 23 32 39 43
+LT [0]:
+RT [3]: 40 41 42
+RS [5]: 22 27 34 38 44
+-------------------------
+[ESQUIADOR 45] chegou.
+[ESQUIADOR 45] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [5]: 21 23 32 39 43
+LT [1]: 45
+RT [3]: 40 41 42
+RS [5]: 22 27 34 38 44
+-------------------------
+[ESQUIADOR 46] chegou.
+[ESQUIADOR 46] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [5]: 21 23 32 39 43
+LT [2]: 45 46
+RT [3]: 40 41 42
+RS [5]: 22 27 34 38 44
+-------------------------
+[ESQUIADOR 47] chegou.
+[ESQUIADOR 47] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [5]: 21 23 32 39 43
+LT [3]: 45 46 47
+RT [3]: 40 41 42
+RS [5]: 22 27 34 38 44
+-------------------------
+[ESQUIADOR 48] chegou.
+[ESQUIADOR 48] entrou na fila 3.
+--- ESTADO DAS FILAS ---
+LS [5]: 21 23 32 39 43
+LT [3]: 45 46 47
+RT [3]: 40 41 42
+RS [6]: 22 27 34 38 44 48
+-------------------------
+[ESQUIADOR 49] chegou.
+[ESQUIADOR 49] entrou na fila 0.
+--- ESTADO DAS FILAS ---
+LS [6]: 21 23 32 39 43 49
+LT [3]: 45 46 47
+RT [3]: 40 41 42
+RS [6]: 22 27 34 38 44 48
+-------------------------
+[ELEVADOR] Partiu com: 40 41 42 21
+--- ESTADO DAS FILAS ---
+LS [5]: 23 32 39 43 49
+LT [3]: 45 46 47
+RT [0]:
+RS [6]: 22 27 34 38 44 48
+-------------------------
+[ESQUIADOR 50] chegou.
+[ESQUIADOR 50] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [5]: 23 32 39 43 49
+LT [3]: 45 46 47
+RT [1]: 50
+RS [6]: 22 27 34 38 44 48
+-------------------------
+[ESQUIADOR 51] chegou.
+[ESQUIADOR 51] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [5]: 23 32 39 43 49
+LT [3]: 45 46 47
+RT [2]: 50 51
+RS [6]: 22 27 34 38 44 48
+-------------------------
+[ESQUIADOR 52] chegou.
+[ESQUIADOR 52] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [5]: 23 32 39 43 49
+LT [3]: 45 46 47
+RT [3]: 50 51 52
+RS [6]: 22 27 34 38 44 48
+-------------------------
+[ESQUIADOR 53] chegou.
+[ESQUIADOR 53] entrou na fila 0.
+--- ESTADO DAS FILAS ---
+LS [6]: 23 32 39 43 49 53
+LT [3]: 45 46 47
+RT [3]: 50 51 52
+RS [6]: 22 27 34 38 44 48
+-------------------------
+[ESQUIADOR 54] chegou.
+[ESQUIADOR 54] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [6]: 23 32 39 43 49 53
+LT [4]: 45 46 47 54
+RT [3]: 50 51 52
+RS [6]: 22 27 34 38 44 48
+-------------------------
+[ELEVADOR] Partiu com: 45 46 47 22
+--- ESTADO DAS FILAS ---
+LS [6]: 23 32 39 43 49 53
+LT [1]: 54
+RT [3]: 50 51 52
+RS [5]: 27 34 38 44 48
+-------------------------
+[ESQUIADOR 55] chegou.
+[ESQUIADOR 55] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [6]: 23 32 39 43 49 53
+LT [2]: 54 55
+RT [3]: 50 51 52
+RS [5]: 27 34 38 44 48
+-------------------------
+[ESQUIADOR 56] chegou.
+[ESQUIADOR 56] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [6]: 23 32 39 43 49 53
+LT [3]: 54 55 56
+RT [3]: 50 51 52
+RS [5]: 27 34 38 44 48
+-------------------------
+[ESQUIADOR 57] chegou.
+[ESQUIADOR 57] entrou na fila 3.
+--- ESTADO DAS FILAS ---
+LS [6]: 23 32 39 43 49 53
+LT [3]: 54 55 56
+RT [3]: 50 51 52
+RS [6]: 27 34 38 44 48 57
+-------------------------
+[ESQUIADOR 58] chegou.
+[ESQUIADOR 58] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [6]: 23 32 39 43 49 53
+LT [4]: 54 55 56 58
+RT [3]: 50 51 52
+RS [6]: 27 34 38 44 48 57
+-------------------------
+[ESQUIADOR 59] chegou.
+[ESQUIADOR 59] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [6]: 23 32 39 43 49 53
+LT [4]: 54 55 56 58
+RT [4]: 50 51 52 59
+RS [6]: 27 34 38 44 48 57
+-------------------------
+[ELEVADOR] Partiu com: 50 51 52 23
+--- ESTADO DAS FILAS ---
+LS [5]: 32 39 43 49 53
+LT [4]: 54 55 56 58
+RT [1]: 59
+RS [6]: 27 34 38 44 48 57
+-------------------------
+[ESQUIADOR 60] chegou.
+[ESQUIADOR 60] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [5]: 32 39 43 49 53
+LT [4]: 54 55 56 58
+RT [2]: 59 60
+RS [6]: 27 34 38 44 48 57
+-------------------------
+[ESQUIADOR 61] chegou.
+[ESQUIADOR 61] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [5]: 32 39 43 49 53
+LT [4]: 54 55 56 58
+RT [3]: 59 60 61
+RS [6]: 27 34 38 44 48 57
+-------------------------
+[ESQUIADOR 62] chegou.
+[ESQUIADOR 62] entrou na fila 0.
+--- ESTADO DAS FILAS ---
+LS [6]: 32 39 43 49 53 62
+LT [4]: 54 55 56 58
+RT [3]: 59 60 61
+RS [6]: 27 34 38 44 48 57
+-------------------------
+[ESQUIADOR 63] chegou.
+[ESQUIADOR 63] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [6]: 32 39 43 49 53 62
+LT [4]: 54 55 56 58
+RT [4]: 59 60 61 63
+RS [6]: 27 34 38 44 48 57
+-------------------------
+[ESQUIADOR 64] chegou.
+[ESQUIADOR 64] entrou na fila 3.
+--- ESTADO DAS FILAS ---
+LS [6]: 32 39 43 49 53 62
+LT [4]: 54 55 56 58
+RT [4]: 59 60 61 63
+RS [7]: 27 34 38 44 48 57 64
+-------------------------
+[ELEVADOR] Partiu com: 54 55 56 27
+--- ESTADO DAS FILAS ---
+LS [6]: 32 39 43 49 53 62
+LT [1]: 58
+RT [4]: 59 60 61 63
+RS [6]: 34 38 44 48 57 64
+-------------------------
+[ESQUIADOR 65] chegou.
+[ESQUIADOR 65] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [6]: 32 39 43 49 53 62
+LT [2]: 58 65
+RT [4]: 59 60 61 63
+RS [6]: 34 38 44 48 57 64
+-------------------------
+[ESQUIADOR 66] chegou.
+[ESQUIADOR 66] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [6]: 32 39 43 49 53 62
+LT [3]: 58 65 66
+RT [4]: 59 60 61 63
+RS [6]: 34 38 44 48 57 64
+-------------------------
+[ESQUIADOR 67] chegou.
+[ESQUIADOR 67] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [6]: 32 39 43 49 53 62
+LT [4]: 58 65 66 67
+RT [4]: 59 60 61 63
+RS [6]: 34 38 44 48 57 64
+-------------------------
+[ESQUIADOR 68] chegou.
+[ESQUIADOR 68] entrou na fila 3.
+--- ESTADO DAS FILAS ---
+LS [6]: 32 39 43 49 53 62
+LT [4]: 58 65 66 67
+RT [4]: 59 60 61 63
+RS [7]: 34 38 44 48 57 64 68
+-------------------------
+[ESQUIADOR 69] chegou.
+[ESQUIADOR 69] entrou na fila 0.
+--- ESTADO DAS FILAS ---
+LS [7]: 32 39 43 49 53 62 69
+LT [4]: 58 65 66 67
+RT [4]: 59 60 61 63
+RS [7]: 34 38 44 48 57 64 68
+-------------------------
+[ELEVADOR] Partiu com: 59 60 61 32
+--- ESTADO DAS FILAS ---
+LS [6]: 39 43 49 53 62 69
+LT [4]: 58 65 66 67
+RT [1]: 63
+RS [7]: 34 38 44 48 57 64 68
+-------------------------
+[ESQUIADOR 70] chegou.
+[ESQUIADOR 70] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [6]: 39 43 49 53 62 69
+LT [4]: 58 65 66 67
+RT [2]: 63 70
+RS [7]: 34 38 44 48 57 64 68
+-------------------------
+[ESQUIADOR 71] chegou.
+[ESQUIADOR 71] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [6]: 39 43 49 53 62 69
+LT [4]: 58 65 66 67
+RT [3]: 63 70 71
+RS [7]: 34 38 44 48 57 64 68
+-------------------------
+[ESQUIADOR 72] chegou.
+[ESQUIADOR 72] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [6]: 39 43 49 53 62 69
+LT [4]: 58 65 66 67
+RT [4]: 63 70 71 72
+RS [7]: 34 38 44 48 57 64 68
+-------------------------
+[ESQUIADOR 73] chegou.
+[ESQUIADOR 73] entrou na fila 0.
+--- ESTADO DAS FILAS ---
+LS [7]: 39 43 49 53 62 69 73
+LT [4]: 58 65 66 67
+RT [4]: 63 70 71 72
+RS [7]: 34 38 44 48 57 64 68
+-------------------------
+[ESQUIADOR 74] chegou.
+[ESQUIADOR 74] entrou na fila 3.
+--- ESTADO DAS FILAS ---
+LS [7]: 39 43 49 53 62 69 73
+LT [4]: 58 65 66 67
+RT [4]: 63 70 71 72
+RS [8]: 34 38 44 48 57 64 68 74
+-------------------------
+[ELEVADOR] Partiu com: 58 65 66 34
+--- ESTADO DAS FILAS ---
+LS [7]: 39 43 49 53 62 69 73
+LT [1]: 67
+RT [4]: 63 70 71 72
+RS [7]: 38 44 48 57 64 68 74
+-------------------------
+[ESQUIADOR 75] chegou.
+[ESQUIADOR 75] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [7]: 39 43 49 53 62 69 73
+LT [2]: 67 75
+RT [4]: 63 70 71 72
+RS [7]: 38 44 48 57 64 68 74
+-------------------------
+[ESQUIADOR 76] chegou.
+[ESQUIADOR 76] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [7]: 39 43 49 53 62 69 73
+LT [3]: 67 75 76
+RT [4]: 63 70 71 72
+RS [7]: 38 44 48 57 64 68 74
+-------------------------
+[ESQUIADOR 77] chegou.
+[ESQUIADOR 77] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [7]: 39 43 49 53 62 69 73
+LT [4]: 67 75 76 77
+RT [4]: 63 70 71 72
+RS [7]: 38 44 48 57 64 68 74
+-------------------------
+[ESQUIADOR 78] chegou.
+[ESQUIADOR 78] entrou na fila 3.
+--- ESTADO DAS FILAS ---
+LS [7]: 39 43 49 53 62 69 73
+LT [4]: 67 75 76 77
+RT [4]: 63 70 71 72
+RS [8]: 38 44 48 57 64 68 74 78
+-------------------------
+[ESQUIADOR 79] chegou.
+[ESQUIADOR 79] entrou na fila 0.
+--- ESTADO DAS FILAS ---
+LS [8]: 39 43 49 53 62 69 73 79
+LT [4]: 67 75 76 77
+RT [4]: 63 70 71 72
+RS [8]: 38 44 48 57 64 68 74 78
+-------------------------
+[ELEVADOR] Partiu com: 63 70 71 39
+--- ESTADO DAS FILAS ---
+LS [7]: 43 49 53 62 69 73 79
+LT [4]: 67 75 76 77
+RT [1]: 72
+RS [8]: 38 44 48 57 64 68 74 78
+-------------------------
+[ESQUIADOR 80] chegou.
+[ESQUIADOR 80] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [7]: 43 49 53 62 69 73 79
+LT [4]: 67 75 76 77
+RT [2]: 72 80
+RS [8]: 38 44 48 57 64 68 74 78
+-------------------------
+[ESQUIADOR 81] chegou.
+[ESQUIADOR 81] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [7]: 43 49 53 62 69 73 79
+LT [4]: 67 75 76 77
+RT [3]: 72 80 81
+RS [8]: 38 44 48 57 64 68 74 78
+-------------------------
+[ESQUIADOR 82] chegou.
+[ESQUIADOR 82] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [7]: 43 49 53 62 69 73 79
+LT [4]: 67 75 76 77
+RT [4]: 72 80 81 82
+RS [8]: 38 44 48 57 64 68 74 78
+-------------------------
+[ESQUIADOR 83] chegou.
+[ESQUIADOR 83] entrou na fila 0.
+--- ESTADO DAS FILAS ---
+LS [8]: 43 49 53 62 69 73 79 83
+LT [4]: 67 75 76 77
+RT [4]: 72 80 81 82
+RS [8]: 38 44 48 57 64 68 74 78
+-------------------------
+[ESQUIADOR 84] chegou.
+[ESQUIADOR 84] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [8]: 43 49 53 62 69 73 79 83
+LT [5]: 67 75 76 77 84
+RT [4]: 72 80 81 82
+RS [8]: 38 44 48 57 64 68 74 78
+-------------------------
+[ELEVADOR] Partiu com: 67 75 76 38
+--- ESTADO DAS FILAS ---
+LS [8]: 43 49 53 62 69 73 79 83
+LT [2]: 77 84
+RT [4]: 72 80 81 82
+RS [7]: 44 48 57 64 68 74 78
+-------------------------
+[ESQUIADOR 85] chegou.
+[ESQUIADOR 85] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [8]: 43 49 53 62 69 73 79 83
+LT [3]: 77 84 85
+RT [4]: 72 80 81 82
+RS [7]: 44 48 57 64 68 74 78
+-------------------------
+[ESQUIADOR 86] chegou.
+[ESQUIADOR 86] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [8]: 43 49 53 62 69 73 79 83
+LT [4]: 77 84 85 86
+RT [4]: 72 80 81 82
+RS [7]: 44 48 57 64 68 74 78
+-------------------------
+[ESQUIADOR 87] chegou.
+[ESQUIADOR 87] entrou na fila 3.
+--- ESTADO DAS FILAS ---
+LS [8]: 43 49 53 62 69 73 79 83
+LT [4]: 77 84 85 86
+RT [4]: 72 80 81 82
+RS [8]: 44 48 57 64 68 74 78 87
+-------------------------
+[ESQUIADOR 88] chegou.
+[ESQUIADOR 88] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [8]: 43 49 53 62 69 73 79 83
+LT [5]: 77 84 85 86 88
+RT [4]: 72 80 81 82
+RS [8]: 44 48 57 64 68 74 78 87
+-------------------------
+[ESQUIADOR 89] chegou.
+[ESQUIADOR 89] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [8]: 43 49 53 62 69 73 79 83
+LT [5]: 77 84 85 86 88
+RT [5]: 72 80 81 82 89
+RS [8]: 44 48 57 64 68 74 78 87
+-------------------------
+[ELEVADOR] Partiu com: 72 80 81 43
+--- ESTADO DAS FILAS ---
+LS [7]: 49 53 62 69 73 79 83
+LT [5]: 77 84 85 86 88
+RT [2]: 82 89
+RS [8]: 44 48 57 64 68 74 78 87
+-------------------------
+[ESQUIADOR 90] chegou.
+[ESQUIADOR 90] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [7]: 49 53 62 69 73 79 83
+LT [5]: 77 84 85 86 88
+RT [3]: 82 89 90
+RS [8]: 44 48 57 64 68 74 78 87
+-------------------------
+[ESQUIADOR 91] chegou.
+[ESQUIADOR 91] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [7]: 49 53 62 69 73 79 83
+LT [5]: 77 84 85 86 88
+RT [4]: 82 89 90 91
+RS [8]: 44 48 57 64 68 74 78 87
+-------------------------
+[ESQUIADOR 92] chegou.
+[ESQUIADOR 92] entrou na fila 0.
+--- ESTADO DAS FILAS ---
+LS [8]: 49 53 62 69 73 79 83 92
+LT [5]: 77 84 85 86 88
+RT [4]: 82 89 90 91
+RS [8]: 44 48 57 64 68 74 78 87
+-------------------------
+[ESQUIADOR 93] chegou.
+[ESQUIADOR 93] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [8]: 49 53 62 69 73 79 83 92
+LT [5]: 77 84 85 86 88
+RT [5]: 82 89 90 91 93
+RS [8]: 44 48 57 64 68 74 78 87
+-------------------------
+[ESQUIADOR 94] chegou.
+[ESQUIADOR 94] entrou na fila 3.
+--- ESTADO DAS FILAS ---
+LS [8]: 49 53 62 69 73 79 83 92
+LT [5]: 77 84 85 86 88
+RT [5]: 82 89 90 91 93
+RS [9]: 44 48 57 64 68 74 78 87 94
+-------------------------
+[ELEVADOR] Partiu com: 77 84 85 44
+--- ESTADO DAS FILAS ---
+LS [8]: 49 53 62 69 73 79 83 92
+LT [2]: 86 88
+RT [5]: 82 89 90 91 93
+RS [8]: 48 57 64 68 74 78 87 94
+-------------------------
+[ESQUIADOR 95] chegou.
+[ESQUIADOR 95] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [8]: 49 53 62 69 73 79 83 92
+LT [3]: 86 88 95
+RT [5]: 82 89 90 91 93
+RS [8]: 48 57 64 68 74 78 87 94
+-------------------------
+[ESQUIADOR 96] chegou.
+[ESQUIADOR 96] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [8]: 49 53 62 69 73 79 83 92
+LT [4]: 86 88 95 96
+RT [5]: 82 89 90 91 93
+RS [8]: 48 57 64 68 74 78 87 94
+-------------------------
+[ESQUIADOR 97] chegou.
+[ESQUIADOR 97] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [8]: 49 53 62 69 73 79 83 92
+LT [5]: 86 88 95 96 97
+RT [5]: 82 89 90 91 93
+RS [8]: 48 57 64 68 74 78 87 94
+-------------------------
+[ESQUIADOR 98] chegou.
+[ESQUIADOR 98] entrou na fila 3.
+--- ESTADO DAS FILAS ---
+LS [8]: 49 53 62 69 73 79 83 92
+LT [5]: 86 88 95 96 97
+RT [5]: 82 89 90 91 93
+RS [9]: 48 57 64 68 74 78 87 94 98
+-------------------------
+[ESQUIADOR 99] chegou.
+[ESQUIADOR 99] entrou na fila 0.
+--- ESTADO DAS FILAS ---
+LS [9]: 49 53 62 69 73 79 83 92 99
+LT [5]: 86 88 95 96 97
+RT [5]: 82 89 90 91 93
+RS [9]: 48 57 64 68 74 78 87 94 98
+-------------------------
+[ELEVADOR] Partiu com: 82 89 90 49
+--- ESTADO DAS FILAS ---
+LS [8]: 53 62 69 73 79 83 92 99
+LT [5]: 86 88 95 96 97
+RT [2]: 91 93
+RS [9]: 48 57 64 68 74 78 87 94 98
+-------------------------
+[ESQUIADOR 100] chegou.
+[ESQUIADOR 100] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [8]: 53 62 69 73 79 83 92 99
+LT [5]: 86 88 95 96 97
+RT [3]: 91 93 100
+RS [9]: 48 57 64 68 74 78 87 94 98
+-------------------------
+[ESQUIADOR 101] chegou.
+[ESQUIADOR 101] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [8]: 53 62 69 73 79 83 92 99
+LT [5]: 86 88 95 96 97
+RT [4]: 91 93 100 101
+RS [9]: 48 57 64 68 74 78 87 94 98
+-------------------------
+[ESQUIADOR 102] chegou.
+[ESQUIADOR 102] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [8]: 53 62 69 73 79 83 92 99
+LT [5]: 86 88 95 96 97
+RT [5]: 91 93 100 101 102
+RS [9]: 48 57 64 68 74 78 87 94 98
+-------------------------
+[ESQUIADOR 103] chegou.
+[ESQUIADOR 103] entrou na fila 0.
+--- ESTADO DAS FILAS ---
+LS [9]: 53 62 69 73 79 83 92 99 103
+LT [5]: 86 88 95 96 97
+RT [5]: 91 93 100 101 102
+RS [9]: 48 57 64 68 74 78 87 94 98
+-------------------------
+[ESQUIADOR 104] chegou.
+[ESQUIADOR 104] entrou na fila 3.
+--- ESTADO DAS FILAS ---
+LS [9]: 53 62 69 73 79 83 92 99 103
+LT [5]: 86 88 95 96 97
+RT [5]: 91 93 100 101 102
+RS [10]: 48 57 64 68 74 78 87 94 98 104
+-------------------------
+[ELEVADOR] Partiu com: 86 88 95 48
+--- ESTADO DAS FILAS ---
+LS [9]: 53 62 69 73 79 83 92 99 103
+LT [2]: 96 97
+RT [5]: 91 93 100 101 102
+RS [9]: 57 64 68 74 78 87 94 98 104
+-------------------------
+[ESQUIADOR 105] chegou.
+[ESQUIADOR 105] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [9]: 53 62 69 73 79 83 92 99 103
+LT [3]: 96 97 105
+RT [5]: 91 93 100 101 102
+RS [9]: 57 64 68 74 78 87 94 98 104
+-------------------------
+[ESQUIADOR 106] chegou.
+[ESQUIADOR 106] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [9]: 53 62 69 73 79 83 92 99 103
+LT [4]: 96 97 105 106
+RT [5]: 91 93 100 101 102
+RS [9]: 57 64 68 74 78 87 94 98 104
+-------------------------
+[ESQUIADOR 107] chegou.
+[ESQUIADOR 107] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [9]: 53 62 69 73 79 83 92 99 103
+LT [5]: 96 97 105 106 107
+RT [5]: 91 93 100 101 102
+RS [9]: 57 64 68 74 78 87 94 98 104
+-------------------------
+[ESQUIADOR 108] chegou.
+[ESQUIADOR 108] entrou na fila 3.
+--- ESTADO DAS FILAS ---
+LS [9]: 53 62 69 73 79 83 92 99 103
+LT [5]: 96 97 105 106 107
+RT [5]: 91 93 100 101 102
+RS [10]: 57 64 68 74 78 87 94 98 104 108
+-------------------------
+[ESQUIADOR 109] chegou.
+[ESQUIADOR 109] entrou na fila 0.
+--- ESTADO DAS FILAS ---
+LS [10]: 53 62 69 73 79 83 92 99 103 109
+LT [5]: 96 97 105 106 107
+RT [5]: 91 93 100 101 102
+RS [10]: 57 64 68 74 78 87 94 98 104 108
+-------------------------
+[ELEVADOR] Partiu com: 91 93 100 53
+--- ESTADO DAS FILAS ---
+LS [9]: 62 69 73 79 83 92 99 103 109
+LT [5]: 96 97 105 106 107
+RT [2]: 101 102
+RS [10]: 57 64 68 74 78 87 94 98 104 108
+-------------------------
+[ESQUIADOR 110] chegou.
+[ESQUIADOR 110] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [9]: 62 69 73 79 83 92 99 103 109
+LT [5]: 96 97 105 106 107
+RT [3]: 101 102 110
+RS [10]: 57 64 68 74 78 87 94 98 104 108
+-------------------------
+[ESQUIADOR 111] chegou.
+[ESQUIADOR 111] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [9]: 62 69 73 79 83 92 99 103 109
+LT [5]: 96 97 105 106 107
+RT [4]: 101 102 110 111
+RS [10]: 57 64 68 74 78 87 94 98 104 108
+-------------------------
+[ESQUIADOR 112] chegou.
+[ESQUIADOR 112] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [9]: 62 69 73 79 83 92 99 103 109
+LT [5]: 96 97 105 106 107
+RT [5]: 101 102 110 111 112
+RS [10]: 57 64 68 74 78 87 94 98 104 108
+-------------------------
+[ESQUIADOR 113] chegou.
+[ESQUIADOR 113] entrou na fila 0.
+--- ESTADO DAS FILAS ---
+LS [10]: 62 69 73 79 83 92 99 103 109 113
+LT [5]: 96 97 105 106 107
+RT [5]: 101 102 110 111 112
+RS [10]: 57 64 68 74 78 87 94 98 104 108
+-------------------------
+[ESQUIADOR 114] chegou.
+[ESQUIADOR 114] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [10]: 62 69 73 79 83 92 99 103 109 113
+LT [6]: 96 97 105 106 107 114
+RT [5]: 101 102 110 111 112
+RS [10]: 57 64 68 74 78 87 94 98 104 108
+-------------------------
+[ELEVADOR] Partiu com: 96 97 105 57
+--- ESTADO DAS FILAS ---
+LS [10]: 62 69 73 79 83 92 99 103 109 113
+LT [3]: 106 107 114
+RT [5]: 101 102 110 111 112
+RS [9]: 64 68 74 78 87 94 98 104 108
+-------------------------
+[ESQUIADOR 115] chegou.
+[ESQUIADOR 115] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [10]: 62 69 73 79 83 92 99 103 109 113
+LT [4]: 106 107 114 115
+RT [5]: 101 102 110 111 112
+RS [9]: 64 68 74 78 87 94 98 104 108
+-------------------------
+[ESQUIADOR 116] chegou.
+[ESQUIADOR 116] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [10]: 62 69 73 79 83 92 99 103 109 113
+LT [5]: 106 107 114 115 116
+RT [5]: 101 102 110 111 112
+RS [9]: 64 68 74 78 87 94 98 104 108
+-------------------------
+[ESQUIADOR 117] chegou.
+[ESQUIADOR 117] entrou na fila 3.
+--- ESTADO DAS FILAS ---
+LS [10]: 62 69 73 79 83 92 99 103 109 113
+LT [5]: 106 107 114 115 116
+RT [5]: 101 102 110 111 112
+RS [10]: 64 68 74 78 87 94 98 104 108 117
+-------------------------
+[ESQUIADOR 118] chegou.
+[ESQUIADOR 118] entrou na fila 1.
+--- ESTADO DAS FILAS ---
+LS [10]: 62 69 73 79 83 92 99 103 109 113
+LT [6]: 106 107 114 115 116 118
+RT [5]: 101 102 110 111 112
+RS [10]: 64 68 74 78 87 94 98 104 108 117
+-------------------------
+[ESQUIADOR 119] chegou.
+[ESQUIADOR 119] entrou na fila 2.
+--- ESTADO DAS FILAS ---
+LS [10]: 62 69 73 79 83 92 99 103 109 113
+LT [6]: 106 107 114 115 116 118
+RT [6]: 101 102 110 111 112 119
+RS [10]: 64 68 74 78 87 94 98 104 108 117
+-------------------------
+[ELEVADOR] Partiu com: 101 102 110 62
+--- ESTADO DAS FILAS ---
+LS [9]: 69 73 79 83 92 99 103 109 113
+LT [6]: 106 107 114 115 116 118
+RT [3]: 111 112 119
+RS [10]: 64 68 74 78 87 94 98 104 108 117
+-------------------------
+[ELEVADOR] Partiu com: 106 107 114 64
+--- ESTADO DAS FILAS ---
+LS [9]: 69 73 79 83 92 99 103 109 113
+LT [3]: 115 116 118
+RT [3]: 111 112 119
+RS [9]: 68 74 78 87 94 98 104 108 117
+-------------------------
+[ELEVADOR] Partiu com: 111 112 119 69
+--- ESTADO DAS FILAS ---
+LS [8]: 73 79 83 92 99 103 109 113
+LT [3]: 115 116 118
+RT [0]:
+RS [9]: 68 74 78 87 94 98 104 108 117
+-------------------------
+[ELEVADOR] Partiu com: 115 116 118 68
+--- ESTADO DAS FILAS ---
+LS [8]: 73 79 83 92 99 103 109 113
+LT [0]:
+RT [0]:
+RS [8]: 74 78 87 94 98 104 108 117
+-------------------------
+[ELEVADOR] Partiu com: 73 74 79 78
+--- ESTADO DAS FILAS ---
+LS [6]: 83 92 99 103 109 113
+LT [0]:
+RT [0]:
+RS [6]: 87 94 98 104 108 117
+-------------------------
+[ELEVADOR] Partiu com: 83 87 92 94
+--- ESTADO DAS FILAS ---
+LS [4]: 99 103 109 113
+LT [0]:
+RT [0]:
+RS [4]: 98 104 108 117
+-------------------------
+[ELEVADOR] Partiu com: 99 98 103 104
+--- ESTADO DAS FILAS ---
+LS [2]: 109 113
+LT [0]:
+RT [0]:
+RS [2]: 108 117
+-------------------------
+[ELEVADOR] Tempo limite de simulação atingido (150 segundos).
+
+===== MÉTRICAS FINAIS =====
+Fila 0: Tempo médio = 36.00 s (23 esquiadores)
+Fila 1: Tempo médio = 12.89 s (36 esquiadores)
+Fila 2: Tempo médio = 12.61 s (33 esquiadores)
+Fila 3: Tempo médio = 36.62 s (24 esquiadores)
+Taxa de aproveitamento: 96.667%
+Tempo médio total de espera: 22.30 s
+===========================
